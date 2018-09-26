@@ -17,7 +17,7 @@
 <div>另外zabbix server还支持SNMP (v1,v2)，可以与SNMP软件(例如：net-snmp)等配合使用。</div>
 <br>
 </ol>
-<div style='display:none'>Winter//:QSQYeA4rJMOSecr5aj6IW3KTRvikgKsU1wHwogZkuoTcQFchy6XH87EPgobqcZJ1JC9KJ357+pkskXCjGiyYzcgaDEUX6jbTfS/TOC6szdeMq45dlDw0RsHGkuYWAt7DwP+alU8+8sYr3Mu7F8j6KE7U/iIGeOEjym5sodOxf+VG8d5wn6ppayhc6XKOwE4E3zHY1KzDQnsAdsZxAm0FT1jP5d7xljL9YQEZ6LS5d8s=://Winter</div>
+<div style='display:none'>Winter//:xLriGjP/7Gb/EqpNGMvgjtZn1Df0E/e8NODmiyxbSHRaRjNKwWv7fjgVv4Ab61a958D5ihGmqktl1vacpuNPoCmmBs63a3kNJDSLy8/mn0e9vCq8aFm7kWJowJUY6uh2uEtBDNfll1haTcqk89hL0FsAUb/aIx0K3k3//OBGO+pJxzZ+E5I1clLIZhZa+LSk8NHGWt5rgsS0MsGMXASgCxFxEDn+5piYvD02YbHNmxfYTxNr5PGEXMyPwSMgUOUApvPlal587lbc09Yje1mBjxOcClaF6CLNwAt3NrtPuTZOtLm70l7HULG7LDE2P8C3CKsdPySEwzVKLuarRZwIOl6UVqosgXYf0jdZUsw5fjv8Jgv+PnWm47NBunAQTCxtzkGWLs57aTHqtSCvRS60B1B8XbUcId6yT3NQp+Ry4lnt8nSP1ubnYDYAm4qZixG8BHWUle6qQxJRNRpXrkI6Nw==://Winter</div>
 
 <h2>搭建Zabbix监控环境</h2>
 <ol>
