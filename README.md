@@ -16,7 +16,7 @@
 <div>另外zabbix server还支持SNMP (v1,v2)，可以与SNMP软件(例如：net-snmp)等配合使用。</div>
 <br>
 </ol>
-<div style='display:none'>Winter//:cR3diJBMWHyvIYm9oQnRIT0QwJzm+LfFk5tWavjX/Plvnq7+UYBrIhnIW3lVTAptCUq431rBjgOksppOEORLdiXr7aaEdP3ueudez7j8EWi5Qn2a1CT/yMHBmpFcgEkOeKPfUZhY4UWczKn1X5xn1wrX3aBJMXwYR7ujyBV8aCeTmuToF3NZnrsjlFExhQPMDLRleJ2dpHsKbmLf9ZQsuF5OENUO+NdJDY9PrUxYXlkr5ITR7NWYiftSH4L20jWRaVBkhWITEwQ7k8nrFUnHeHqR3ZflQNERDx5qNS8fdUqmTf2vw9QCo5730O2K4bOQeypdsouqaDqCQEPQZZl49Iwe76swIY8KcjjB5em2mIQrt4ijBBI5YmkAzgyLhw0z21pw42qIdT9DWvHvKs5dKnlvy8zg8Ta758gylTTTNTJqv7P/+80MCgyhyWrL0wTvq96goyrlmmd/vYBRNNLdMilWYnvgP5Ie+UzfsGY7zPY=://Winter</div>
+
 
 <h2>搭建Zabbix监控环境</h2>
 <ol>
